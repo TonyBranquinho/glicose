@@ -1,0 +1,7 @@
+C:\temp\ws-vs2019\glicose\glicose\bin\Debug\glicose.exe.config
+C:\temp\ws-vs2019\glicose\glicose\bin\Debug\glicose.exe
+C:\temp\ws-vs2019\glicose\glicose\bin\Debug\glicose.pdb
+C:\temp\ws-vs2019\glicose\glicose\obj\Debug\glicose.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\glicose\glicose\obj\Debug\glicose.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\glicose\glicose\obj\Debug\glicose.exe
+C:\temp\ws-vs2019\glicose\glicose\obj\Debug\glicose.pdb
